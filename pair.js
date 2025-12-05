@@ -13,7 +13,7 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-    async function MALVIN_XD_PAIR_CODE() {
+    async function CK-ERROR-BOTZ_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -77,9 +77,9 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "malvin~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, MALVIN-XD User!* 👋🏻
+                        let desc = `*Hey there, CK-ERROR-BOTZ User!* 👋🏻
 
-Thanks for using *MALVIN-XD* — your session has been successfully created!
+Thanks for using *CK-ERROR-BOTZ* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -88,23 +88,23 @@ Thanks for using *MALVIN-XD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+https://whatsapp.com/channel/0029VbBQQ6v4Y9lenR8ROD3O
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+https://github.com/najmakhtun337-cloud/Ck-ERROE-BOTZ.git
 
 ——————
 
-> *© Powered by Malvin King*
+> *© Powered by CK-ERROR-BOTZ*
 Stay cool and hack smart. ✌🏻`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
-thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+title: "CK-ERROR-BOTZ",
+thumbnailUrl: "https://files.catbox.moe/tpqa1r.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029VbBQQ6v4Y9lenR8ROD3O",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -115,7 +115,7 @@ renderLargerThumbnail: true
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
                             let desc = `Hey there, MALVIN-XD User!* 👋🏻
 
-Thanks for using *MALVIN-XD* — your session has been successfully created!
+Thanks for using *CK-ERROR-BOTZ* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -124,23 +124,23 @@ Thanks for using *MALVIN-XD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+https://whatsapp.com/channel/0029VbBQQ6v4Y9lenR8ROD3O
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+https://github.com/najmakhtun337-cloud/Ck-ERROE-BOTZ.git
 
 ——————
 
-> *© Powered by Malvin King*
+> *© Powered by CK-ERROR-BOTZ*
 Stay cool and hack smart. ✌🏻`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
-thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
-sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+title: "CK-ERROR-BOTZ",
+thumbnailUrl: "https://files.catbox.moe/tpqa1r.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029VbBQQ6v4Y9lenR8ROD3O",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
@@ -157,7 +157,7 @@ showAdAttribution: true
                     process.exit();
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10);
-                    MALVIN_XD_PAIR_CODE();
+                    CK-ERROR-BOTZ PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -168,7 +168,7 @@ showAdAttribution: true
             }
         }
     }
-   return await MALVIN_XD_PAIR_CODE();
+   return await CK-ERROR-BOTZ PAIR_CODE();
 });/*
 setInterval(() => {
     console.log("☘️ 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...");
